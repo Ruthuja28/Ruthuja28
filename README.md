@@ -9,12 +9,11 @@ Exploring AI and Building Projects
 
 ---
 
-# 👋 About Me
+# About Me
 
+Developer interested in building projects and exploring AI.
 
-I'm a Computer Science student who enjoys learning by building and understanding how technology works behind the scenes.
-
-Currently exploring software development, web technologies, and system design while improving problem-solving and development skills through projects.
+Always learning and improving.
 
 ✨ What I'm working on:
 - Building practical projects
