@@ -1,8 +1,9 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋 I'm Ruthuja</h1>
+<h1 align="center">Hi there👋 I'm Ruthuja</h1>
 
 <h3 align="center">
+Software Developer
+Java | Python | Web Development
+Exploring AI and Building Projects
 
 </h3>
 
