@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋 I'm Ruthuja</h1>
 
 <h3 align="center">
-Software Developer
+Software Developer<br>
 Java | Python | Web Development
 Exploring AI and Building Projects
 
