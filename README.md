@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Software Developer<br>
-Java | Python | Web Development
+Java | Python | Web Development<br>
 Exploring AI and Building Projects
 
 </h3>
